@@ -12,6 +12,7 @@
   <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luan-JS" height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Luan-JS" height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
   
   <img align="right" alt="Luan-Gif" height="200" width="200" src="https://cdn.discordapp.com/attachments/963372263200161843/963585354810687498/picasion.com_3c7160d9e3fbae206d27fa4ad073200a.gif">
 </div>
