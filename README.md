@@ -14,6 +14,8 @@
   <img align="center" alt="Luan-JS" height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Luan-tailwindcss" height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="Luan-react" height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Luan-premiere" height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />
+
   
   <img align="right" alt="Luan-Gif" height="200" width="200" src="https://cdn.discordapp.com/attachments/963372263200161843/963585354810687498/picasion.com_3c7160d9e3fbae206d27fa4ad073200a.gif">
 </div>
