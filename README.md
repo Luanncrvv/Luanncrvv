@@ -1,4 +1,4 @@
-## Oiii eu sou Luan Carvalho, aprendiz de dev e gamer :)
+## Hi I'm Luan Andrade, beginner Full-stack development student :)
 
 <div align="center">
   <a href="https://github.com/Luanncrvv">
@@ -7,15 +7,18 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <h2>• Linguagens que utilizo 🖥</h2>
   <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luan-JS" height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Luan-tailwindcss" height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="Luan-react" height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Luan-yarn" height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" />
+  <img align="center" alt="Luan-vscode" height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="Luan-premiere" height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
-
+  <img align="center" alt="Luan-photoshop" height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  
+  
   
   <img align="right" alt="Luan-Gif" height="200" width="200" src="https://cdn.discordapp.com/attachments/963372263200161843/963585354810687498/picasion.com_3c7160d9e3fbae206d27fa4ad073200a.gif">
 </div>
