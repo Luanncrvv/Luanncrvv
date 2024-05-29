@@ -1,5 +1,9 @@
 ## Hi 
+I'm currently studying computer science at university.
 
+Here I share some personal projects.
+
+I'm currently studying React, C, NodeJS.
 
 
 <div style="display: inline_block"><br>
