@@ -15,6 +15,7 @@ I'm currently studying React, C, NodeJS.
   <img align="center" alt="Luan-yarn" height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" />
   <img align="center" alt="Luan-premiere" height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
   <img align="center" alt="Luan-photoshop" height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  <img align="center" alt="Lw-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
 ##
