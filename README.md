@@ -1,33 +1,27 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=499ABD&amp;height=90&amp;section=header" style="max-width: 100%;"> 
-<h1><strong>Oii, meu nome é Laura Marques</strong></h1>
+## Hi 
+I'm currently studying computer science at university.
+
+Here I share some personal projects.
+
+I'm currently studying React, C, NodeJS.
 
 
-<p>Main Techs: Java, JavaScript, NodeJS, HTML5 and CSS3 <br>
-I'm studying: java and Spring
-</p>
-
-<div style="display: inline-block"><br>
-          
- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-
-<br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauluah&layout=compact)
-          
+<div style="display: inline_block"><br>
+  <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Luan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Luan-JS" height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Luan-react" height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Luan-yarn" height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" />
+  <img align="center" alt="Luan-premiere" height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
+  <img align="center" alt="Luan-photoshop" height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  <img align="center" alt="Lw-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
-<br> <a class="redes">
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laauramrqs181@gmail.com)
-</a>          
+##
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lauluah/lauluah/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lauluah/lauluah/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.comlauluah/lauluah/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
-
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=499ABD&amp&height=70&section=footer"/>
+<div>
+  <a href="https://www.instagram.com/luann.andd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luan-andrade-815147236/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 	<a href = "mailto:luancrvdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
