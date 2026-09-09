@@ -3,7 +3,7 @@ I'm currently studying computer science at university.
 
 Here I share some personal projects.
 
-I'm currently studying React, C, NodeJS.
+I'm currently studying AI Engineering and Luau.
 
 ##
 
